@@ -1,3 +1,7 @@
 # encrypted-diary-project
-This is a brain dump diary that lets you write whatever you want and save it as encrypted text so noone else can read it.
+A simple Tkinter diary app where you can write your thoughts and save them.
+- 🖋 Dark maroon theme
+- 🌟 Golden heart & stamp icons
+- 💾 Save entries with date
+
 This is pretty random, I coded this for fun.
